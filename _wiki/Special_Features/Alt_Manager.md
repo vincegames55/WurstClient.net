@@ -1,5 +1,5 @@
 ---
-title: Alt Manager
+title: vince
 category: Special Feature
 labels:
   - stub
